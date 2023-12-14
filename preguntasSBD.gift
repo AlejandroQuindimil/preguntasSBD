@@ -1,0 +1,67 @@
+1.Cual de estos no es  un tipo de dato?
+
+~ Estructurados
+
+~ No estructurados
+
+= Deformados
+
+~ Semi-estructurados
+
+
+2.Cual de estos no es un dato Semi-estructurado?
+
+~ Correos electrónicos
+
+~ Lenguaje de marcado XML
+
+= Las bases de datos SQL
+
+~ Las bases de datos NoSQL
+
+3. Cuales son los 4 conceptos básicos de pentaho:
+
+~ Transformations,Java,Steps, Hops
+
+~ Transmutation,Jobs,Steps, Hops
+
+~ Transformations,Jobs,Stops, Hops
+
+= Transformations,Jobs,Steps, Hops
+
+4. Que tipo de dato es un fichero xml?
+
+~ Estructurado
+
+~ No estructurados
+
+~ Quasi estruturado
+
+= Semi-estructurados
+
+5. Que comando utilizamos para instalar na contorna de conda para que nos permita leer ficheros excel?
+
+~ conda install excel
+
+~ conda activate excel
+
+~ conda remove lxml openpyxl
+
+= conda install lxml openpyxl
+
+
+6. con que comando git descargamos los cambios (actualizar repositorio)
+
+~ git push
+
+~ git comimit
+
+~ git add
+
+= git pull
+
+7. Completa el comando:
+
+ conda _______ __ conda-forge pandas numpy wordcloud nltk selenium pyarrow fastparquet
+ 
+ = install -c
